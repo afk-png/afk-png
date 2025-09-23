@@ -1,4 +1,4 @@
- # Geetank’s Coding Portfolio
+ # Geetank’s Github Bio
 > Just a king flexing his coding vibe 💻✨ #VibeCoding
 
 ---
