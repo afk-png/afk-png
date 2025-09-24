@@ -1,22 +1,66 @@
-<h3 align="center">A passionate frontend developer vibe coder</h3>
+# Geetank’s Coding Portfolio
+> Just a king flexing his coding vibe #VibeCoding
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afk-png&label=Profile%20views&color=0e75b6&style=flat" alt="afk-png" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afk-png" alt="afk-png" /></a> </p>
+## Languages I Master
 
-- 👨‍💻 All of my projects are available at [github.com/afk-png](github.com/afk-png)
+![Lua](https://img.shields.io/badge/Lua-Expert-00f0ff?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-Expert-00ffff?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-ffeb00?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JS-Expert-ff8c00?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-Expert-ff0000?style=for-the-badge&logo=html5&logoColor=white)
 
-- ⚡ Fun fact **im good person lol**
+> Always coding with full vibe, pushing limits
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afk-png&show_icons=true&locale=en&layout=compact" alt="afk-png" /></p>
+### 1. [discord-bot-customize-it](https://github.com/afk-png/discord-bot-customize-it)
+- **Tech Used**: Python
+- **Description**: Customizable Discord bot with advanced scripting.
+- **GitHub**: [afk-png/discord-bot-customize-it](https://github.com/afk-png/discord-bot-customize-it)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afk-png&show_icons=true&locale=en" alt="afk-png" /></p>
+### 2. [beangd.github.io](https://github.com/afk-png/beangd.github.io)
+- **Tech Used**: HTML, CSS, JS
+- **Description**: Personal website showcasing projects & blogs.
+- **GitHub**: [afk-png/beangd.github.io](https://github.com/afk-png/beangd.github.io)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afk-png&" alt="afk-png" /></p>
+### 3. [website.github.io](https://github.com/afk-png/website.github.io)
+- **Tech Used**: HTML, CSS, JS
+- **Description**: Portfolio website highlighting projects & achievements.
+- **GitHub**: [afk-png/website.github.io](https://github.com/afk-png/website.github.io)
+
+---
+
+## GitHub Stats
+
+![Geetank’s GitHub stats](https://github-readme-stats.vercel.app/api?username=afk-png&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afk-png&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afk-png&theme=radical)
+
+---
+
+## Achievements
+- Mastered Lua & Luau scripting, Python automation, full-stack JS/HTML/CSS projects  
+- Built multi-purpose Discord bots with advanced customization & automation  
+- Created personal portfolio & websites showcasing coding skills  
+- Always vibing with coding, pushing limits, #VibeCoding  
+
+---
+
+## Connect
+- GitHub: [@afk-png](https://github.com/afk-png)
+
+---
+
+## Animated Gradient Badges
+
+![Vibe Coding](https://img.shields.io/badge/Vibe-Coding-ff00ff?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-Expert-00f0ff?style=for-the-badge&logo=lua)
+![Python](https://img.shields.io/badge/Python-Expert-ffff00?style=for-the-badge&logo=python)
+![JS](https://img.shields.io/badge/JS-Expert-ff8c00?style=for-the-badge&logo=javascript)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-Expert-ff0000?style=for-the-badge&logo=html5)
